@@ -1,4 +1,4 @@
-const fs = require('fs')
+Hhconst fs = require('fs')
 const chalk = require('chalk')
 
 //===> FREE API
